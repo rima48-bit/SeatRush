@@ -342,6 +342,8 @@ The intended deployment architecture separates frontend and backend services.
 
 **Live Application:** [Add deployment URL.](https://seat-rush-beryl.vercel.app/)
 
+**Backend Link** [https://seatrush-uwn0.onrender.com]
+
 ## Learning Outcomes
 
 This project demonstrates practical implementation and understanding of:
